@@ -6,7 +6,8 @@ For more information, look at the package.
 
 ## Example
 
-[![Demo](https://github.com/windwithbirds/mobilellm-demo/Untitled.mov)](https://github.com/windwithbirds/mobilellm-demo/Untitled.mov)
+https://github.com/windwithbirds/MobileLLM-Demo/assets/8698156/450b9ef1-16fb-492f-bb6d-6e31fb987bd0
+
 
 ## Early prototype
 
